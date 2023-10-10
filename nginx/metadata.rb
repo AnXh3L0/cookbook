@@ -1,0 +1,7 @@
+name 'Nginx'
+maintainer 'Anxhelo Lushka'
+maintainer_email 'anxhelo1995@gmail.com'
+license 'Apache_2.0'
+description 'Installs/Configures Nginx'
+long_description 'Installs/Configures Nginx'
+version '0.0.1'
